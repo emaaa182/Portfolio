@@ -14,15 +14,15 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-        Soy Desarrollador Front End en formacion.
+        Soy Desarrollador Front End en formación.
         Me gusta estudiar de forma autodidacta y aprender
-        constantemente, tambien estudio formalmente en CODERHOUSE.
+        constantemente, también estudio formalmente en CODERHOUSE.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Mí objetivo es obtener mí primer
+          Mi objetivo es obtener mi primera
           experiencia laboral para poder desarrollar todo lo
           aprendido hasta el momento y también continuar
           expandiendo mis conocimientos.
