@@ -1,5 +1,4 @@
 import React from "react";
-import contarClicks from "../assets/portfolio/contarClicks.png";
 import climaApp from "../assets/portfolio/climaApp.png";
 import toDoList from "../assets/portfolio/toDoList.png";
 import calculadora from "../assets/portfolio/calculadora.png";
@@ -9,7 +8,7 @@ import pokedex from "../assets/portfolio/pokedexApp.png";
 const Portfolio = () => {
   const portfolios = [
   
-    {
+    {gi
       id: 1,
       src: calculadora,
       nombre:"Calculadora",
