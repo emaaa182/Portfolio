@@ -57,7 +57,7 @@ const Portfolio = () => {
       id: 7,
       src: climaReact,
       nombre:"ClimaApi con searchBar",
-      link:"climaapp-react-demo.netlify.app",
+      link:"https://climaapp-react-demo.netlify.app/",
       link2:"https://github.com/emaaa182/weather-app-reactjs"
     },
 
