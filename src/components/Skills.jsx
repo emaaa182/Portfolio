@@ -70,14 +70,14 @@ const Experience = () => {
   return (
     <div
       name="Conocimientos"
-      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen"
+      className="bg-gradient-to-b from-gray-800 to-black w-full h-screen "
     >
       <div className="max-w-screen-lg mx-auto  flex flex-col justify-center w-full h-full text-white">
         <div>
-          <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
+          <p className="text-4xl flex justify-center font-bold border-b-4 border-gray-500 p-3 ">
             Conocimientos
           </p>
-          <p className="py-6">Cuento con los siguientes conocimientos</p>
+          <p className="py-6 flex justify-center" >Cuento con los siguientes conocimientos</p>
         </div>
 
         <div className="w-full grid grid-cols-3 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0">
