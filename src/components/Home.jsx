@@ -15,12 +15,8 @@ const Home = () => {
             Soy Desarrollador Front-End
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          Desarrollador Front End en formacion.
-          Me gusta estudiar de forma autodidacta y aprender
-          constantemente, tambien estudio formalmente en CODERHOUSE. Mí objetivo es obtener mí primer
-          experiencia laboral para poder desarrollar todo lo
-          aprendido hasta el momento y también continuar
-          expandiendo mis conocimientos.
+           Desarrollador Front End en formacion,
+           a continuacion te dejo un resumen sobre mi y mis conocimientos en el mundo IT
           </p>
 
           <div>
