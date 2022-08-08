@@ -8,44 +8,37 @@ import pokedex from "../assets/portfolio/pokedexApp.png";
 
 const Portfolio = () => {
   const portfolios = [
+  
     {
       id: 1,
-      src: contarClicks,
-      nombre:"Contador de Clicks",
-      link:"https://contarclicks.netlify.app/",
-      link2:"https://github.com/emaaa182/contador-clicks-vanilla-js"
-     
-    },
-    {
-      id: 2,
       src: calculadora,
       nombre:"Calculadora",
       link:"https://calculadora-basica-demo.netlify.app/",
       link2:"https://github.com/emaaa182/basic-calculator-js"
     },
     {
-      id: 3,
+      id: 2,
       src: toDoList,
       nombre:"Lista de Tareas",
       link:"https://lista-de-tareas-demo.netlify.app/",
       link2:"https://github.com/emaaa182/to-do-list"
     },
     {
-      id: 4,
+      id: 3,
       src: relojjs,
       nombre:"Reloj Basico",
       link:"https://reloj-js-demo.netlify.app/",
       link2:"https://github.com/emaaa182/reloj-JS"
     },
     {
-      id: 5,
+      id: 4,
       src: climaApp,
       nombre:"ClimaApi",
       link:"https://clima-app-demo.netlify.app/",
       link2:"https://github.com/emaaa182/weather-app-js"
     },
     {
-      id: 6,
+      id: 5,
       src: pokedex,
       nombre:"PokedexApi",
       link:"https://pokedex-api-demo.netlify.app/",
