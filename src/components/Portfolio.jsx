@@ -7,8 +7,7 @@ import pokedex from "../assets/portfolio/pokedexApp.png";
 
 const Portfolio = () => {
   const portfolios = [
-  
-    {gi
+    {
       id: 1,
       src: calculadora,
       nombre:"Calculadora",
