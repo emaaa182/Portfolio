@@ -5,6 +5,7 @@ import toDoList from "../assets/portfolio/toDoList.png";
 import calculadora from "../assets/portfolio/calculadora.png";
 import relojjs from "../assets/portfolio/relojs-js.png";
 import pokedex from "../assets/portfolio/pokedexApp.png";
+import climaReact from "../assets/portfolio/climaReact.png";
 
 const Portfolio = () => {
   const portfolios = [
@@ -52,6 +53,14 @@ const Portfolio = () => {
       link:"https://pokedex-api-demo.netlify.app/",
       link2:"https://github.com/emaaa182/pokedex"
     },
+    {
+      id: 7,
+      src: climaReact,
+      nombre:"ClimaApi con searchBar",
+      link:"climaapp-react-demo.netlify.app",
+      link2:"https://github.com/emaaa182/weather-app-reactjs"
+    },
+
   ];
 
   return (
