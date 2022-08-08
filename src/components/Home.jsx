@@ -15,8 +15,8 @@ const Home = () => {
             Soy Desarrollador Front-End
           </h2>
           <p className="text-gray-500 py-4 max-w-md text-2xl">
-           Desarrollador Front End en formacion,
-           a continuacion te dejo un resumen sobre mi y mis conocimientos en el mundo IT
+           Desarrollador Front End en formación,
+           a continuación te dejo un resumen sobre mí y mis conocimientos en el mundo IT.
           </p>
 
           <div>
