@@ -35,7 +35,7 @@ const Portfolio = () => {
     {
       id: 4,
       src: relojjs,
-      nombre:"Reloj Basico",
+      nombre:"Reloj Básico",
       link:"https://reloj-js-demo.netlify.app/",
       link2:"https://github.com/emaaa182/reloj-JS"
     },
