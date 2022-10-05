@@ -37,16 +37,6 @@ const SocialLinks = () => {
       id: 4,
       child: (
         <>
-          Resume Es <BsFillPersonLinesFill size={30} />
-        </>
-      ),
-      href: "/CV-ACOSTA.pdf",
-      download: true,
-    },
-    {
-      id: 4,
-      child: (
-        <>
           Resume En <BsFillPersonLinesFill size={30} />
         </>
       ),
