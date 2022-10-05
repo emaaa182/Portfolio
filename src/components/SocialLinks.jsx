@@ -33,6 +33,16 @@ const SocialLinks = () => {
       ),
       href: "mailto:wherehog21@gmail.com",
     },
+       {
+      id: 4,
+      child: (
+        <>
+          Resume Es <BsFillPersonLinesFill size={30} />
+        </>
+      ),
+      href: "/CV-ACOSTA.pdf",
+      download: true,
+    },
     {
       id: 4,
       child: (
